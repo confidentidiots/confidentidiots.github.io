@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="content">
+  <div class="post single">
+      <!--
+    <div class="meta">
+        <p class="item tags small">
+            {% for tag in page.tags %}<a href="/tag/{{ tag }}" class="tag">{{ tag }}</a>{% endfor %}
+        </p>
+    </div>
+    -->
+
+    <h1>{{ page.title }}</h1>
+
+    <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
+        {{ page.date | date: "%b %d, %Y" }}
+    </info>
+
+    <div class="breaker"></div>
+    <div class="body">{{ content }}</div>
+
+
+  {% if page.disqus_comments %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+      window.disqus_identifier = {% if page.tumblr_id %}"{{ page.tumblr_id }}"{% else %}"{{ page.id }}"{% endif %};
+    </script>
+    <script async src="http://confidentidiots.disqus.com/embed.js"></script>
+    <noscript>Please enable JavaScript to view the
+      <a href="http://disqus.com/?ref_noscript=confidentidiots">comments powered by Disqus.</a>
+    </noscript>
+    {% include disqus.html %}
+  {% endif %}
+
+  </div>
+</div>
+
