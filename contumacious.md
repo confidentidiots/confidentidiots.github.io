@@ -14,7 +14,7 @@ Contumacious Commuter
 <div class="box altbox">
 [{{ item.title }}]({{ item.url }})
 
-<small>{{item.date | date: "%Y"}}</small>
+<small>{{item.date | date: "%Y-%m-%d"}}</small>
 </div>
 {% endfor %}
 
