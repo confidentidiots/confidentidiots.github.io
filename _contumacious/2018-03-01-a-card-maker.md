@@ -10,8 +10,10 @@ Previously, I [concluded]({{ site.baseurl }}{% link _contumacious/2018-02-28-let
 
 Behold - the Contumacious Commuter Card maker. Or, [cccards](https://confidentidiots.com/cccards/) as I like to call it. ([source code](https://github.com/confidentidiots/cccards))
 
+*Note: at the time of writing this, there are only 4 cards.*
+
 ![cards](/assets/contumacious/2018-03-01-a-card-maker/cards.jpg)
 
-Do you like the cards? The colours? The art?
+Do you like the cards? The colours? The art? If you do, I'll make a few more cards worthy of a deck.
 
 Let me know in the comments!
