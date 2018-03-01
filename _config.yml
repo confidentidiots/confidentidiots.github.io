@@ -1,11 +1,12 @@
 title: confidentidiots.com
 email: confidentidiots@uys.io
 description: >- # this means to ignore newlines until "baseurl:"
-  A one-person games dev company no-one knows about.
+  An indie-vidual games dev.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://confidentidiots.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: confidiot
 github_username:  confidentidiots
+disqus: confidentidiots
 google_analytics: UA-114645042-1
 # Build settings
 markdown: kramdown
