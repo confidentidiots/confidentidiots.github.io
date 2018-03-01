@@ -4,6 +4,7 @@ description: "The beginnings of a GDD"
 layout: post
 tags: contumacious game
 category: blog
+comments: true
 ---
 
 The idea started with what I find annoying on public transport: interactions with fellow commuters.

@@ -4,6 +4,7 @@ description: "I got started."
 layout: post
 tags: contumacious game ccg
 category: blog
+comments: true
 ---
 
 Previously, I [concluded]({{ site.baseurl }}{% link _contumacious/2018-02-28-lets-make-a-ccg.md %}) that a automated solution to making cards might be the way to go.

@@ -4,6 +4,7 @@ description: "The daily commute, made game."
 layout: post
 tags: contumacious game
 category: blog
+comments: true
 ---
 
 The game idea springs from my experiences with using public transport. I’ve been the victim of (and in some cases the perpetrator of) various infractions, large and small. Examples including playing elbow wrestling with your neighbour, farting, leaky earphones, and so forth.

@@ -4,6 +4,7 @@ description: "Might as well get started."
 layout: post
 tags: contumacious game ccg
 category: blog
+comments: true
 ---
 
 Previously, I [concluded]({{ site.baseurl }}{% link _contumacious/2018-02-23-fleshing-out-the-idea.md %}) (excitedly, mind you) that a Magic-style CCG might be the way to go.
